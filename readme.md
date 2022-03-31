@@ -4,7 +4,7 @@
 
 给定一段连续采集(天粒度)的硬盘状态监控数据（Self-Monitoring, Analysis, and Reporting Technology; often written as SMART)以及故障标签数据，参赛者需要自己提出方案，按天粒度判断每块硬盘是否会在未来30日内发生故障。例如，可以将预测故障问题转化为传统的二分类问题，通过分类模型来判断哪些硬盘会坏；或者可以转化为排序问题，通过Learning to rank的方式判断硬盘的损坏严重程度等。
 
-[**赛题**](https://tianchi.aliyun.com/competition/entrance/231775/information?spm=5176.21852664.0.0.439a4ab326FzJi)
+[赛题](https://tianchi.aliyun.com/competition/entrance/231775/information?spm=5176.21852664.0.0.439a4ab326FzJi)
 
 [数据集](https://tianchi.aliyun.com/dataset/dataDetail?spm=5176.21852664.0.0.439a4ab326FzJi&dataId=70251)
 
@@ -732,7 +732,7 @@
 
 
 
-### **大航杯“智造扬中”电力AI大赛**
+### 大航杯“智造扬中”电力AI大赛
 
 [赛题](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.11165672.0.0.411c8272PnG1Ez&raceId=231602)
 
@@ -750,7 +750,7 @@
 
 
 
-### **第三届阿里中间件性能挑战赛**
+### 第三届阿里中间件性能挑战赛
 
 [赛题](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.11165672.0.0.2b2e8272VH8N6R&raceId=231600)
 
@@ -758,9 +758,9 @@
 
 
 
-### **KDD CUP 2017**
+### KDD CUP 2017
 
-### [赛题](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.11165672.0.0.2b2e8272VH8N6R&raceId=231597)
+[赛题](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.11165672.0.0.2b2e8272VH8N6R&raceId=231597)
 
 [数据集](https://tianchi.aliyun.com/datalab/dataSet.html?spm=5176.100073.0.0.7bee6fc1pXKfA3&dataId=60)
 
@@ -768,7 +768,7 @@
 
 
 
-### **IJCAI-17 口碑商家客流量预测**
+### IJCAI-17 口碑商家客流量预测
 
 [赛题](https://tianchi.aliyun.com/competition/introduction.htm?raceId=231591)  
 
@@ -780,4 +780,7 @@
 
 
 
-[链接](https://tianchi.aliyun.com/forum/postDetail?postId=3192)
+------
+
+###### [参考链接](https://tianchi.aliyun.com/forum/postDetail?postId=3192)
+
